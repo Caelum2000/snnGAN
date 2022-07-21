@@ -2,7 +2,7 @@
 ***
 ## 整理各个模型在各个数据集上的FID结果如下：
 >"()"代表原始结果在12服务器上，仅凭记忆写出，可能不准确
-> "~"代表目前未做实验
+> ; "~"代表目前未做实验
 
 |方法\数据集|MNSIT|FashionMNIST|CIFAR-10|CelebA|
 |----------|-----|-------------|--------|------|
@@ -15,8 +15,8 @@
 
 ## 根据上周五对weighted decoding的改进思路，MNSIT上整理结果如下：
 > origin 代表输出时先sigmoid再softmax
-> origin+remove_softmax 代表输出时仅sigmoid，去掉softmax
-> origin+remove_sigmoid 代表输出时去掉sigmoid，仅softmax
+> ; origin+remove_softmax 代表输出时仅sigmoid，去掉softmax
+> ; origin+remove_sigmoid 代表输出时去掉sigmoid，仅softmax
 
 |方法|FID|
 |----|----|
