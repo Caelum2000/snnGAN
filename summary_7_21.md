@@ -29,25 +29,25 @@
 ## 部分新结果展示
 <br/>
 <center>
-    <img src = "./CelebA.png">
+    <img src = "./res/CelebA.png">
     <br>
     <b>CelebA</b>
     <br>
     <br>
     <br>
-    <img src = "./CIFAR10.png">
+    <img src = "./res/CIFAR10.png">
     <br>
     <b>CIFAR-10</b>
     <br>
     <br>
     <br>
-    <img src = "./remove_sigmoid.png">
+    <img src = "./res/remove_sigmoid.png">
     <br>
     <b>remove sigmoid</b>
     <br>
     <br>
     <br>
-    <img src = "./remove_softmax.png">
+    <img src = "./res/remove_softmax.png">
     <br>
     <b>remove softmax</b></p>
 </center>
