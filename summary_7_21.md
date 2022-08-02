@@ -7,8 +7,8 @@
 |方法\数据集|MNSIT|FashionMNIST|CIFAR-10|CelebA|
 |----------|-----|-------------|--------|------|
 |baseline|(100)|**175.34**|178.40|238.42|
-|baseline+attention|69.64|193.57|181.50||
-|baseline+attention+infoNCE|(**66**)|196.85|~|~|
+|baseline+attention|69.64|193.57|181.50|**151.36**|
+|baseline+attention+infoNCE|**66.85**|196.85|~|~|
 
 
 ***
